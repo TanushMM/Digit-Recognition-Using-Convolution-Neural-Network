@@ -6,7 +6,7 @@ This project implements a digit recognition system using a __Convolutional Neura
 
 ## MNIST Dataset
 
-<img scr="https://www.researchgate.net/publication/200744481/figure/fig1/AS:668968306098181@1536505881710/Samples-from-the-MNIST-digit-recognition-data-set-Here-a-black-pixel-corresponds-to-an.png">
+![Alt text](https://www.researchgate.net/publication/200744481/figure/fig1/AS:668968306098181@1536505881710/Samples-from-the-MNIST-digit-recognition-data-set-Here-a-black-pixel-corresponds-to-an.png)
 
 ## Key Features
 
