@@ -4,10 +4,6 @@
 
 This project implements a digit recognition system using a __Convolutional Neural Network__ (CNN) trained on the MNIST dataset. It integrates a user-friendly Pygame interface that allows you to draw digits on a black canvas and receive real-time predictions from the model.
 
-## MNIST Dataset
-
-![Alt text](https://www.researchgate.net/publication/200744481/figure/fig1/AS:668968306098181@1536505881710/Samples-from-the-MNIST-digit-recognition-data-set-Here-a-black-pixel-corresponds-to-an.png)
-
 ## Key Features
 
 - __CNN-based Recognition:__ Leverages the power of CNNs to accurately recognize handwritten digits.
