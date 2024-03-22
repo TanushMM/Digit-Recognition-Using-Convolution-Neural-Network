@@ -1,0 +1,16 @@
+/decision_tree
+/k_nearest_neighbour
+/random forest
+/ScreenShots
+
+accuracy_plotting.ipynb
+algo accu and loss.png
+KNN accuracies and losses table.pdf
+KNN accuracies and losses.xlsx
+KNN accuracy and loss.png
+
+epoch-1.h5
+epoch-5.h5
+epoch-10.h5
+epoch-20-again.h5
+epoch-20.h5
